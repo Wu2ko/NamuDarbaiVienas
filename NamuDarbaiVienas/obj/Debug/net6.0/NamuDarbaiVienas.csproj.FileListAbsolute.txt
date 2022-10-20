@@ -1,0 +1,15 @@
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\bin\Debug\net6.0\NamuDarbaiVienas.exe
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\bin\Debug\net6.0\NamuDarbaiVienas.deps.json
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\bin\Debug\net6.0\NamuDarbaiVienas.runtimeconfig.json
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\bin\Debug\net6.0\NamuDarbaiVienas.dll
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\bin\Debug\net6.0\NamuDarbaiVienas.pdb
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.csproj.AssemblyReference.cache
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.AssemblyInfoInputs.cache
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.AssemblyInfo.cs
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.csproj.CoreCompileInputs.cache
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.dll
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\refint\NamuDarbaiVienas.dll
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.pdb
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\NamuDarbaiVienas.genruntimeconfig.cache
+C:\Users\Saul\source\repos\NamuDarbaiVienas\NamuDarbaiVienas\obj\Debug\net6.0\ref\NamuDarbaiVienas.dll
